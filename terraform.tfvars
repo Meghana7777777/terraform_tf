@@ -1,0 +1,12 @@
+ami_id = "ami-06e46074ae430fba6"
+ubuntu_ami_id = "ami-007855ac798b5175e"
+inst_type = "t2.micro"
+key_name = "elb-key"
+sg_ids = ["sg-08547bd9f6f2f535b"]
+subnet_id = "subnet-0765f6f25f4c6ab5a"
+vpc_id = "vpc-0b66b4a2635095b42"
+aws_region = "us-east-1"
+environment = "dev"
+solution = "sales"
+ins1sg_name = "dev-1-ins1sg"
+ins2sg_name = "dev-2-ins2sg"
